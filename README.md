@@ -8,3 +8,5 @@ Este es un repositorio inicial de git
 3. Eduaciones diferenciales
 
 ### Este repositorio también contiene la lista de compras de la semana
+
+En este repositorio está trabajando una persona externa.
