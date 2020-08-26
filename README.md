@@ -6,3 +6,5 @@ Este es un repositorio inicial de git
 1. Optimización
 2. Simulación montecarlo
 3. Eduaciones diferenciales
+
+### Este repositorio también contiene la lista de compras de la semana
